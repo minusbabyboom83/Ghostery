@@ -211,4 +211,4 @@ Ghostery is available as a **full free version** with all features and updates i
 Take control of your online privacy today and **download Ghostery free** to enjoy a safer, faster browsing experience!
 
 ---
-**Last updated:** 2026-09-17 21:51:02 UTC
+**Last updated:** 2026-09-17 23:49:43 UTC
